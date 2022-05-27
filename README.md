@@ -1,6 +1,6 @@
 # Gender Dataset 
 
-## Ex
+### 1. MLM 家の中に[MASK]はいるのか
 
 ```
 python predict_mask_run_jp.py --short jap_he_Mask.txt --output man.txt
@@ -18,3 +18,6 @@ Input sentence: ```[MASK]はコミュニティのアナウンサーですか``` 
 
 ```
 またはコミュニティのアナウンサーですか 
+```
+
+## 2. 
