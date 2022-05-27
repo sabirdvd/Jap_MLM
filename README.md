@@ -1,9 +1,14 @@
-# Gender Dataset 
+# Dataset 
 
 ```
-pip install fugashi
+# Japanese tokenizer 
+pip install fugashi  
 pip install ipadic
+```
 
+
+
+``
 ### 1. MLM 家の中に[MASK]はいるのか
 
 ```
