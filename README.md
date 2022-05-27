@@ -1,5 +1,9 @@
 # Gender Dataset 
 
+```
+pip install fugashi
+pip install ipadic
+
 ### 1. MLM 家の中に[MASK]はいるのか
 
 ```
