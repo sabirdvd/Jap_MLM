@@ -3,7 +3,7 @@
 ## Ex
 
 ```
-python predict_mask_run _jp.py --short jap_he_Mask.txt --output man.txt
+python predict_mask_run_jp.py --short jap_he_Mask.txt --output man.txt
 ```
 
 Example:
