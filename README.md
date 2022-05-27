@@ -2,6 +2,10 @@
 
 ## Ex
 
+```
+python predict_mask_run.py --short jap_he_Mask.txt --output man.txt
+```
+
 Example:
 Input sentence: ```[MASK]は大学を卒業することが重要であると知っていた```--> GT  **彼**　
 
