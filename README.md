@@ -7,6 +7,15 @@ pip install ipadic
 ```
 
 
+```
+Japanese Tokenization
+
+今日は良い天気ですね。
+
+今日　は　良い　天気　です　ね　。
+```
+
+
 
 ``
 ### 1. MLM 家の中に[MASK]はいるのか
