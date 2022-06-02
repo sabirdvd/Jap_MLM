@@ -2,6 +2,7 @@
 
 ```
 # Japanese tokenizer 
+＃https://taku910.github.io/mecab/
 pip install fugashi  
 pip install ipadic
 ```
