@@ -16,6 +16,14 @@ Japanese Tokenization
 今日　は　良い　天気　です　ね　。
 ```
 
+## Dataset 
+
+Wiki 
+```
+https://dumps.wikimedia.org/jawiki/
+```
+
+
 
 
 ``
