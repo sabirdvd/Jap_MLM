@@ -18,11 +18,16 @@ Japanese Tokenization
 
 ## Dataset 
 
-Wiki 
+Wiki (last dump) 
 ```
 https://dumps.wikimedia.org/jawiki/
+https://dumps.wikimedia.org/jawiki/20220220/
 ```
+## Data cleaning 
 
+```
+here 
+```
 
 
 
