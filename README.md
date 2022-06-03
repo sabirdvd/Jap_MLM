@@ -39,7 +39,7 @@ The data look like this
 ばれるようになっている。 
 ```
 
-## Data cleaning 
+##  Data preprocessing and cleaning 
 
 Example of the file data
 ````
