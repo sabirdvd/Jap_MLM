@@ -1,4 +1,4 @@
-# Dataset and Gender bias 
+# Dataset
 
 ```
 # Japanese tokenizer 
@@ -41,7 +41,7 @@ The data look like this
 
 ##  Data preprocessing and cleaning 
 
-Example of the file data
+Example of the file data with the gender and the context 
 ````
   
 Ex:
