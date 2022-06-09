@@ -54,7 +54,7 @@ Heidelberg University is (his) home university.
 
 ```` 
 
-
+[full data](https://huggingface.co/datasets/AhmedSSabir/Japanese-wiki-dump-sentence-dataset)
 
 
 
